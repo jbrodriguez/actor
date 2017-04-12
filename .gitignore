@@ -1,0 +1,9 @@
+.DS_Store
+public
+
+# go
+vendor
+
+# misc
+*.log
+*.zip
